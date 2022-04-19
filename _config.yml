@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/Yat To Yeung (Bosco) 楊逸韜/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Yeung_resume_Apr2022.pdf"
  - name: "Contact"
    link: "contact"
