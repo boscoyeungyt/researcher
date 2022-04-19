@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Political Science (major in American Politics, minor i
 
 My research interests include Asian American politics, political representation, and race and ethnicity politics broadly. In my dissertation, I argue that the national-origin consciousness of the individuals is the driving force behind the co-national-origin preference, and it can be activated by discrimination, family history, and group pride. I use a range of survey experiments to identify the conditions under which national-origin consciousness will be activated. I also apply the idea of national-origin consciousness to studying the role of national-origin in campaigns and elections.
 
-Aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work have appeared in *George Washington University Regulatory Studies Center*
+Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work have appeared in *George Washington University Regulatory Studies Center*.
 
 ## Non-Peer Reviewed Publications
 
