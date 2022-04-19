@@ -1,5 +1,5 @@
 title: Yat To Yeung (Bosco) 楊逸韜
-url: "https://boscoyeungyt.github.io/ytyeung/"
+# url: "https://boscoyeungyt.github.io/ytyeung/"
 # baseurl: "/Yat To Yeung (Bosco) 楊逸韜/"
 
 markdown: kramdown
@@ -19,7 +19,7 @@ nav:
 #name: "About"
 # link: "/Yat To Yeung (Bosco) 楊逸韜/"
  - name: "CV"
-   link: "Yeung_CV_Apr_2022.pdf"
+   link: "https://github.com/boscoyeungyt/ytyeung/blob/07cb9fdaae9b4ea9895aec608a5142b61ecd165d/Yeung_CV_Apr_2022.pdf"
  - name: "Professional Resumé"
    link: "https://github.com/boscoyeungyt/ytyeung/blob/8c42a7b2c9ca4f75dac387b41d4cf1a7b3fee9b6/Yeung_resume_Apr2022.pdf"
  - name: "Twitter"
