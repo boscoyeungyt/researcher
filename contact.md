@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ytyeung@gwu.edu](mailto:ytyeung@gwu.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+571-523-3345](tel:+571-523-3345)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Monroe Hall
 >
-> London
+> 2115 G St. NW, Suite 440
 >
-> United Kingdom
+> Washington, DC 20052
 
----
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
