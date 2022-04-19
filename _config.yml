@@ -1,6 +1,6 @@
-title: Researcher
+title: Yat To Yeung (Bosco) 楊逸韜
 url: "https://boscoyeungyt.github.io/ytyeung.github.io/"
-baseurl: "/Yat To Yeung (Bosco) 楊逸韜/"
+# baseurl: "/Yat To Yeung (Bosco) 楊逸韜/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/Yat To Yeung (Bosco) 楊逸韜/"
+#name: "About"
+# link: "/Yat To Yeung (Bosco) 楊逸韜/"
  - name: "CV"
    link: "Yeung_CV_Apr_2022.pdf"
  - name: "Professional Resume"
