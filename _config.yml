@@ -1,5 +1,5 @@
 title: Yat To Yeung (Bosco) 楊逸韜
-url: "https://boscoyeungyt.github.io/ytyeung.github.io/"
+url: "https://boscoyeungyt.github.io/ytyeung/"
 # baseurl: "/Yat To Yeung (Bosco) 楊逸韜/"
 
 markdown: kramdown
@@ -28,5 +28,3 @@ nav:
    link: "https://www.linkedin.com/in/yeung317"
  - name: "Contact"
    link: "contact"
-
-theme: jekyll-theme-cayman
