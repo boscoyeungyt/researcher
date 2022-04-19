@@ -28,3 +28,5 @@ nav:
    link: "https://www.linkedin.com/in/yeung317"
  - name: "Contact"
    link: "contact"
+
+theme: jekyll-theme-cayman
