@@ -16,7 +16,7 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 
 ## Non-Peer Reviewed Publications
 
-1. “Notice and Comment Policymaking During Uncertain Times: The Case of Hong Kong”, Co-authored with Steven Balla. 2022 *[Georgeg Washington University Regulatory Studies Center](https://regulatorystudies.columbian.gwu.edu/notice-and-comment-policymaking-during-uncertain-times)*.
+1. “Notice and Comment Policymaking During Uncertain Times: The Case of Hong Kong”, Co-authored with Steven Balla. 2022 *[George Washington University Regulatory Studies Center](https://regulatorystudies.columbian.gwu.edu/notice-and-comment-policymaking-during-uncertain-times)*.
 2. “Taiwan’s Outward Foreign Direct Investment (OFDI) into the European Union: Quantitative Research”, Co-authored with Edward Danks, Valere Vangeel, Axel Goethals, Andrea Mogni, Erik Famaey, Giulia Gasparri, and Rapagnani. 2018 *[European Institute for Asian Studies](https://www.eias.org/wp-content/uploads/2016/03/Taiwan-Investment-Report-Quantitative-Final-Version-1.pdf?_ga=2.194060584.406527338.1644984222-1387559483.1644774219)*.
 
 ## Work in Progress
