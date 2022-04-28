@@ -22,7 +22,7 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 
 ## Work in Progress
 1. “Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups” *Under Review*
-3. “Residential Satisfaction, Political Participation, and Political Attitudes of Non-Whites” *Under Review*
+3. “Residential Satisfaction, Political Participation, and Political Attitudes of Non-Whites” *Invited to Revise and Resubmit*
 4. “Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”, Co-authored with Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai
 5. “Notice and Comment Policymaking in the Shadow of China: Government Transparency in Hong Kong and Taiwan”, Co-
 authored with Steven Balla and Huang Chen
