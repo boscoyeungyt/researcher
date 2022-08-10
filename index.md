@@ -21,9 +21,8 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 3. “Taiwan’s Outward Foreign Direct Investment (OFDI) into the European Union: Quantitative Research”, Co-authored with Edward Danks, Valere Vangeel, Axel Goethals, Andrea Mogni, Erik Famaey, Giulia Gasparri, and Roberta Rapagnani. 2018. *[European Institute for Asian Studies](https://www.eias.org/wp-content/uploads/2016/03/Taiwan-Investment-Report-Quantitative-Final-Version-1.pdf?_ga=2.194060584.406527338.1644984222-1387559483.1644774219)*.
 
 ## Work in Progress
-1. “Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups” *Under Review*
-3. “Residential Satisfaction, Political Participation, and Political Attitudes of Non-Whites” *Invited to Revise and Resubmit*
-4. “Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”, Co-authored with Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai
-5. “Notice and Comment Policymaking in the Shadow of China: Government Transparency in Hong Kong and Taiwan”, Co-
+1. “Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups” *Invited to Revise and Resubmit*
+2. “Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”, Co-authored with Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai
+3. “Notice and Comment Policymaking in the Shadow of China: Government Transparency in Hong Kong and Taiwan”, Co-
 authored with Steven Balla and Huang Chen
 
