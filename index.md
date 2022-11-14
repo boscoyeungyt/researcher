@@ -14,6 +14,9 @@ My research interests include Asian American politics, political representation,
 
 Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *George Washington University Regulatory Studies Center* [2x].
 
+## Peer Reviewed Publications
+1. "Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups", 2022. *[American Politics Research](https://doi.org/10.1177/1532673X221139758)*.
+
 ## Non-Peer Reviewed Publications
 
 1. "In the Shadow of China: Notice and Comment Policymaking in Hong Kong and Taiwan", With Steven Balla and Huang Chen. 2022. *[George Washington University Regulatory Studies Center](https://regulatorystudies.columbian.gwu.edu/shadow-china)*.
@@ -21,8 +24,7 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 3. “Taiwan’s Outward Foreign Direct Investment (OFDI) into the European Union: Quantitative Research”, Co-authored with Edward Danks, Valere Vangeel, Axel Goethals, Andrea Mogni, Erik Famaey, Giulia Gasparri, and Roberta Rapagnani. 2018. *[European Institute for Asian Studies](https://www.eias.org/wp-content/uploads/2016/03/Taiwan-Investment-Report-Quantitative-Final-Version-1.pdf?_ga=2.194060584.406527338.1644984222-1387559483.1644774219)*.
 
 ## Work in Progress
-1. “Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups” *Invited to Revise and Resubmit*
-2. “Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”, Co-authored with Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai
-3. “Notice and Comment Policymaking in the Shadow of China: Government Transparency in Hong Kong and Taiwan”, Co-
+1. “Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”, Co-authored with Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai
+2. “Notice and Comment Policymaking in the Shadow of China: Government Transparency in Hong Kong and Taiwan”, Co-
 authored with Steven Balla and Huang Chen
 
