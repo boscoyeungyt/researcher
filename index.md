@@ -24,6 +24,6 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 4. [“Taiwan’s Outward Foreign Direct Investment (OFDI) into the European Union: Quantitative Research”](https://www.eias.org/wp-content/uploads/2016/03/Taiwan-Investment-Report-Quantitative-Final-Version-1.pdf?_ga=2.194060584.406527338.1644984222-1387559483.1644774219), With Edward Danks, Valere Vangeel, Axel Goethals, Andrea Mogni, Erik Famaey, Giulia Gasparri, and Roberta Rapagnani. 2018. *European Institute for Asian Studies*.
 
 ## Work in Progress
-1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. *George Washington University Regulatory Studies Center*. Manuscript Submitted.
-2. “Transparency, Participation, and Responsiveness in Hong Kong Policymaking”, With Steven Balla and Huang Chen. Manuscript in Preparation.
+1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. *George Washington University Regulatory Studies Center Working Paper*. Manuscript Submitted.
+2. “Transparency, Participation, and Responsiveness in Hong Kong Policymaking”, With Steven Balla and Huang Chen. *Under Review*.
 
