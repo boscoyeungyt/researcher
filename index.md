@@ -26,7 +26,7 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 ## Work in Progress
 1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper. *Under Review*.
 2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Invited to Revise & Resubmit to Journal of Contemporary China*.
-3. "How National Origins Matter: A Qualitative Approach to Asian American Politics." *Manuscript in Preparation*. To be Presented at APSA 2023.
+3. "How National Origin Matters: Toward a New Understanding of Asian American Identity" *Submitted*. To be Presented at APSA 2023.
 4. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Survey Design*.
 5. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
 
