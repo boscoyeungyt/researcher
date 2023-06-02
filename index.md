@@ -15,7 +15,7 @@ My research interests include Asian American politics, political representation,
 Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *American Politics Research*, *George Washington University Regulatory Studies Center* [2x] and *USAPP - American Politics and Policy - The London School of Economics and Political Science*.
 
 ## Peer Reviewed Publications
-1. ["Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups"](https://doi.org/10.1177/1532673X221139758). 2022. *American Politics Research*.
+1. ["Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups"](https://doi.org/10.1177/1532673X221139758). 2023. *American Politics Research, 51*(4), 543-554.
 
 ## Non-Peer Reviewed Publications
 1. ["State Legislators are Not Equally Responsive to All Asian Constituents, But We Don't Know Why."](https://blogs.lse.ac.uk/usappblog/2022/12/09/state-legislators-are-not-equally-responsive-to-all-asian-constituents-but-we-dont-know-why/). 2022. *USAPP - American Politics and Policy - The London School of Economics and Political Science*
