@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="IMG_3954-2.jpg">
 
-I am a Ph.D. candidate in Political Science (major in American Politics, minor in Public Policy) from George Washington University. I obtained my Master of Philosophy (2023) and Master of Arts (2022) from George Washington University and Bachelor of Arts with Honors and distinction in Philosophy, Politics and Economics from the University of Michigan, Ann Arbor in 2018.
+I am a Ph.D. candidate in Political Science (major in American Politics, minor in Public Policy) from George Washington University and a Predoctoral Research Associate at Princeton University under the supervision of [Professor Noel Foster](https://www.noelfoster.com). I obtained my Master of Philosophy (2023) and Master of Arts (2022) from George Washington University and Bachelor of Arts with Honors and distinction in Philosophy, Politics and Economics from the University of Michigan, Ann Arbor in 2018.
 
 ## Research Interest
 
@@ -25,7 +25,7 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 
 ## Work in Progress
 1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper. *Under Review*.
-2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *R&R at Journal of Contemporary China*.
+2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Invited to R&R at Journal of Contemporary China*.
 3. "How National Origin Matters: Toward a New Understanding of Asian American Identity" *Invited to R&R at Journal of Race, Ethnicity, and Politics*. To be Presented at APSA 2023.
 4. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Survey Design*.
 5. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
