@@ -29,4 +29,5 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper.
 3. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
 4. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
+5. "How does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?"
 
