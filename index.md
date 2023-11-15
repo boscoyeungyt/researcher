@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Political Science (major in American Politics, minor i
 
 ## Research Interest
 
-My research interests include Asian American politics, political representation, and race and ethnicity politics broadly. In my dissertation, I argue that the national-origin consciousness of the individuals is the driving force behind the co-national-origin preference, and it can be activated by discrimination and family history. The first chapter of my dissertation examines what national origin means to Asian Americans by conducting interviews. Then, using a range of survey experiments, I identify the conditions under which national-origin consciousness can be activated. Lastly, I apply the idea of national-origin consciousness to studying the role of national-origin in campaigns and elections.
+My research interests include Asian American politics, political representation, and race and ethnicity politics broadly. In my dissertation, I argue that the ethnic origin has an important role in Asian American politics. The first chapter of my dissertation (accepted at JREP) examines what ethnic origin means to Asian Americans by conducting interviews. Then, in the second chapter, using a range of survey experiments, I examine the receptiveness of Chinese and non-Chinese voters to Chinese candidates' language appeal. I find that the effectivness of language appeal on voting is conditional on the strength of ethnic origin consciousness of the Chinese voters. Lastly, in the third chapter, I demonstrate that ethnic origin identity of Asian Americans is tied to their ethnic media consumption. I also find that the consumption of ethnic news leads to divergent foreign policy attitudes among Asian Americans.
 
 Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *American Politics Research*, *George Washington University Regulatory Studies Center* [2x] and *USAPP - American Politics and Policy - The London School of Economics and Political Science*.
 
@@ -30,4 +30,5 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 3. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
 4. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
 5. "How does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?"
+6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes"
 
