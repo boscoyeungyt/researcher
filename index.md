@@ -12,10 +12,10 @@ I am a Ph.D. candidate in Political Science (major in American Politics, minor i
 
 My research interests include Asian American politics, political representation, and race and ethnicity politics broadly. In my dissertation, I argue that the ethnic origin has an important role in Asian American politics. The first chapter of my dissertation (accepted at JREP) examines what ethnic origin means to Asian Americans by conducting interviews. Then, in the second chapter, using a range of survey experiments, I examine the receptiveness of Chinese and non-Chinese voters to Chinese candidates' language appeal. I find that the effectivness of language appeal on voting is conditional on the strength of ethnic origin consciousness of the Chinese voters. Lastly, in the third chapter, I demonstrate that ethnic origin identity of Asian Americans is tied to their ethnic media consumption. I also find that the consumption of ethnic news leads to divergent foreign policy attitudes among Asian Americans.
 
-Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *American Politics Research*, *George Washington University Regulatory Studies Center* [2x] and *USAPP - American Politics and Policy - The London School of Economics and Political Science*.
+Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *The Journal of Race, Ethnicity, and Politics*, *American Politics Research*, *George Washington University Regulatory Studies Center* [2x] and *USAPP - American Politics and Policy - The London School of Economics and Political Science*.
 
 ## Peer Reviewed Publications
-1. "How Ethnic Origin Shapes Political Preferences: Toward a Deeper Understanding of Asian American Identity". *Accepted at The Journal of Race, Ethnicity, and Politics*.
+1. "How Ethnic Origin Shapes Political Preferences: Toward a Deeper Understanding of Asian American Identity". Forthcoming. *The Journal of Race, Ethnicity, and Politics*.
 2. ["Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups"](https://doi.org/10.1177/1532673X221139758). 2023. *American Politics Research, 51*(4), 543-554.
 
 ## Non-Peer Reviewed Publications
@@ -26,9 +26,9 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 
 ## Work in Progress
 1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper.
-2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper.
+2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Under Review.*
 3. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
 4. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
 5. "How does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?"
-6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes"
+6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes."
 
