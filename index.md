@@ -25,10 +25,10 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 4. [“Taiwan’s Outward Foreign Direct Investment (OFDI) into the European Union: Quantitative Research”](https://www.eias.org/wp-content/uploads/2016/03/Taiwan-Investment-Report-Quantitative-Final-Version-1.pdf?_ga=2.194060584.406527338.1644984222-1387559483.1644774219), With Edward Danks, Valere Vangeel, Axel Goethals, Andrea Mogni, Erik Famaey, Giulia Gasparri, and Roberta Rapagnani. 2018. *European Institute for Asian Studies*.
 
 ## Work in Progress
-1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper.
+1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper.*Finalizing Manuscript*.
 2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Under Review.*
-3. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
-4. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
-5. "How does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?"
+3. "How does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?" *Under Review.*
+4. "Are We One? Pandering Perceptions Among Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
+5. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
 6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes."
 
