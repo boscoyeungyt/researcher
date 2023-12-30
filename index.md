@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="IMG_3954-2.jpg">
 
-I am a Ph.D. candidate in Political Science (major in American Politics, minor in Public Policy) from George Washington University and a Predoctoral Research Associate at Princeton University under the supervision of [Professor Noel Foster](https://www.noelfoster.com). I obtained my Master of Philosophy (2023) and Master of Arts (2022) from George Washington University and Bachelor of Arts with Honors and distinction in Philosophy, Politics and Economics from the University of Michigan, Ann Arbor in 2018.
+I am a Ph.D. candidate in Political Science (major in American Politics, minor in Public Policy) from George Washington University and a Predoctoral Research Associate at Princeton University. I obtained my Master of Philosophy (2023) and Master of Arts (2022) from George Washington University and Bachelor of Arts with Honors and distinction in Philosophy, Politics and Economics from the University of Michigan, Ann Arbor in 2018.
 
 ## Research Interest
 
