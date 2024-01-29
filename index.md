@@ -28,7 +28,8 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper. *Under Review*.
 2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Under Review.*
 3. "How Does Language Appeal and Group Consciousness(es) affect the Political Engagement of Asian Americans?" *Under Review.*
-4. "Are We One? The Perception of Language Appeal Targeting Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
-5. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
-6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes."
+4. "Divisive Discourse: The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes." *Under Review.*
+5. "Are We One? The Perception of Language Appeal 6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes." Asian Americans.” With Julian Wamble. *Finalizing Manuscript*.
+6. "Does Attention Matter?: Punctuations and Public Commenting in Taiwan Policymaking." With Steve Balla and Huang Chen. *Data Analysis*.
+
 
