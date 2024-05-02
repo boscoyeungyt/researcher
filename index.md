@@ -15,7 +15,7 @@ My research interests include Asian American politics, political representation,
 Born and raised in Hong Kong, aside from American politics, I am interested in studying regulatory politics in the Greater China region. I collaborated with my coauthors on examining government responsiveness in public consultation in China. I am also working on several research projects concerning public consultations in Hong Kong and Taiwan. My work has appeared in *The Journal of Race, Ethnicity, and Politics*, *American Politics Research*, *George Washington University Regulatory Studies Center* [2x] and *USAPP - American Politics and Policy - The London School of Economics and Political Science*.
 
 ## Peer Reviewed Publications
-1. ["How Ethnic Origin Shapes Political Preferences: Toward a Deeper Understanding of Asian American Identity"](https://doi.org/10.1017/rep.2023.35). 2024 *The Journal of Race, Ethnicity, and Politics, 9*(1), 99-122. 
+1. ["How Ethnic Origin Shapes Political Preferences: Toward a Deeper Understanding of Asian American Identity"](https://doi.org/10.1017/rep.2023.35). 2024. *The Journal of Race, Ethnicity, and Politics, 9*(1), 99-122. 
 2. ["Beyond Pan-Ethnicity: Responsiveness of Elected Officials to Asian American Subgroups"](https://doi.org/10.1177/1532673X221139758). 2023. *American Politics Research, 51*(4), 543-554.
 
 ## Non-Peer Reviewed Publications
@@ -28,7 +28,8 @@ Born and raised in Hong Kong, aside from American politics, I am interested in s
 1. [“Notice the Comment? Chinese Government Responsiveness to Public Participation in the Policymaking Process”](https://regulatorystudies.columbian.gwu.edu/sites/g/files/zaxdzs4751/files/2022-11/chinese_government_responsiveness_rsc_working_paper_zxie_11-30-2022.pdf), With Steven Balla, Andrew Wan, Zhoudan Xie, and Geng Zhai. George Washington University Regulatory Studies Center Working Paper. *Under Review*.
 2. [“Transparency, Participation, and Responsiveness in Hong Kong Policymaking”](https://regulatorystudies.columbian.gwu.edu/transparency-participation-and-responsiveness-hong-kong-consultative-policymaking), With Steven Balla and Huang Chen. George Washington University Regulatory Studies Center Working Paper. *Under Review.*
 3. "Divisive Discourse: The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes." *Under Review.*
-4. "Are We One? The Perception of Language Appeal 6. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes." Asian Americans.” With Julian Wamble. *Under Review*.
+4. "Are We One? The Perception of Language Appeal." With Julian Wamble. *Under Review*.
+5. "The Impact of Ethnic Origin Identity and Ethnic News on Misinformation and Foreign Policy Attitudes." Asian Americans.”  *Under Review*.
 
 
 
